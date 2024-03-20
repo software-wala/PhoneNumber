@@ -1,0 +1,96 @@
+.footer{
+  color: white;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+
+  display: flex;
+  justify-content: space-around;
+ background-color: rgb(214, 62, 62);
+
+}
+
+.socialIcon
+{
+  display: flex;
+  /* justify-content: space-evenly; */
+  gap: 30px;
+  padding: 10px;
+}
+
+
+
+#getInTouch
+{
+  font-size: 33px;
+  margin-bottom: 10px;
+}
+.FaFacebook
+{
+  color: blue;
+  width: 35px;
+height: 35px;
+}
+.FaTwitter
+{
+  color: lightblue;
+  width: 35px;
+  height: 35px;
+}
+
+.FaInstagramSquare
+{
+  color: lightcoral;
+  width: 35px;
+  height: 35px;
+}
+
+.socialName
+{
+  font-size: 15px;
+  font-family: poppins;
+}
+
+
+
+
+
+
+
+.suggestBtn  input
+{
+
+
+}
+
+
+
+
+
+#copyright 
+{
+  margin-top: 8%;
+  font-size: 18px;
+}
+
+.third
+{
+
+}
+
+.third img 
+
+{
+  width: 100px;
+  height: 100px;
+}
+
+
+#nepalLogo
+{
+  width: auto;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
