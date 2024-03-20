@@ -1,18 +1,13 @@
-.baricon{
-
+.baricon {
   width: 30px;
   height: 50px;
- 
-
-
 }
 
-.baricon:hover 
-{
+.baricon:hover {
   width: 35px;
-
 }
 
+<<<<<<< Updated upstream
 
 
 .navbar
@@ -20,18 +15,21 @@
 display: flex;
 margin-top: 30px;
 
+=======
+.navbar {
+  display: flex;
+  margin-top: 30px;
+  background-color: ;
+>>>>>>> Stashed changes
 }
 
- .navbar .searchbox
-{
-  
-margin-left: 40%;
-display: flex;
-justify-content: center;
+.navbar .searchbox {
+  margin-left: 40%;
+  display: flex;
+  justify-content: center;
 }
 
-.searchbox input
-{
+.searchbox input {
   width: 300px;
   height: 30px;
   border: 1px solid black;
@@ -39,19 +37,26 @@ justify-content: center;
   border-radius: 4px;
 }
 
-.searchI{
+.searchI {
   display: flex;
   justify-content: center;
   align-items: center;
-
-
 }
 
-.searchicon
-{
+.searchicon {
   width: 30px;
   height: 50px;
   margin: auto 10px;
   padding-bottom: 2px;
+}
 
+.navbarheader {
+  background-color: rgb(206, 52, 52);
+  height: 200px;
+  font-size: 34px;
+  color: white;
+  font-family: "Segoe UI";
+  display: flex;
+  align-items: center;
+  font-weight: 600;
 }
