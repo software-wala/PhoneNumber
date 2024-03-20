@@ -5,8 +5,10 @@
   padding: 10px;
 
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
  background-color: rgb(214, 62, 62);
+ gap: 40px;
+
 
 }
 
